@@ -12,3 +12,9 @@
 5. The aim of segmentation is to increase sales through personalized content tailored to the respective segment.
 
 6. To learn implementation of the machine learning principle in python.
+
+7. used k - means algorithm to create multiple clusters 
+
+
+
+![image](https://user-images.githubusercontent.com/88726682/192082763-a6c0235f-feec-4273-be10-9f508e5b19c7.png)
