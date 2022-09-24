@@ -1,5 +1,6 @@
 # Customer-segmentation
 
+  ### Objectives and implementation details 
 
 1. Technique of splitting customers into separate groups depending on their attributes or behavior.
 
@@ -18,3 +19,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/88726682/192082763-a6c0235f-feec-4273-be10-9f508e5b19c7.png)
+
+
+### Benefites of customer segmentation
+
+1. Help identify least and most profitable customers.
+2. Build loyal relationships with customers by developing and offering them the products and services.
+3. Helps to improve customer service,maximize the use of your resources.
